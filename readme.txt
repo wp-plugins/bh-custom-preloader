@@ -1,4 +1,4 @@
-=== BH Custom Preloader ===
+﻿=== BH Custom Preloader ===
 Contributors: masumbd
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TAXUBBKCANHLA&lc=US&item_name=bograhost¤cy_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: custom preloader, flat preloader, nice preloader, masum billah, getmasum, preloader, preloader plugin,awesome preloader, beautiful preloader, preloader spinner, flat preloader spinner, nice preloader spinner 
@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This is BH Custom Preloader  plugin.It will be enable Preloader on your web site. You can change Every things from settings
+This is BH Custom Preloader  plugin.It will be enable Preloader on your web site. You can change Every things from preloader settings
 
 == Description ==
 
